@@ -84,7 +84,7 @@ author:
   avatar           : "profile_YuweiZhou.png"
   bio              : "Postdoctoral Principle Researcher"
   location         : "Chicago, IL"
-  employer         : "The Booth School of Business<br/> at the University of Chicago"
+  employer         : "The Booth School of Business<br/> \t at the University of Chicago"
   pubmed           : 
   googlescholar    : 
   email            : "Yuwei.Zhou@chicagobooth.edu"
