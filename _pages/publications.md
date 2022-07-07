@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints
+* Zhou, Y., Andradottir S., Kim, S.-H., and Park, C. (2022) Finding Feasible Systems for Subjective Constraints Using Recycled Observations. Submitted to INFORMS Journal on Computing.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Conference Publications
+* Zhou, Y., Andradóttir S., and Kim S.-H. (2020) Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds. Proceedings of the 2020 Winter Simulation Conference. 
