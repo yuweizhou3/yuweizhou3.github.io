@@ -8,8 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yuwei Zhou"
+logo                     : "/images/site-logo.png"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuwei Zhou"
 description              : &description "personal description"
 url                      : "https://yuweizhou3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
