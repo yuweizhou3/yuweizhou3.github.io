@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+## Journal Publications
 * Zhou, Y., Andradóttir, S., Kim, S.-H., and Park, C. (2022). Finding Feasible Systems for Subjective Constraints Using Recycled Observations. INFORMS Journal on Computing. Accepted.
 
 ## Conference Publications
