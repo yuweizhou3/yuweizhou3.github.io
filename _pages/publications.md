@@ -15,4 +15,5 @@ author_profile: true
 * "Feasibility Check Procedures for Subjective Constraints with Recycled Observations and Added Thresholds." with S. Andradóttir, S.-H. Kim, and C. Park.
 * "Selection of the Best in the Presence of Subjective Stochastic Constraints." with S. Andradóttir and S.-H. Kim.
 * "Finding a Portfolio of Best Systems for Subjective Constraints." with S. Andradóttir and S.-H. Kim.
+* "Analyzing the Effects of Judge Shopping on Criminal Sentencing." with B. Ata and L. Wein.
 
