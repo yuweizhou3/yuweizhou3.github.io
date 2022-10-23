@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology
+## Georgia Institute of Technology
+## H. Milton Stewart School of Industrial and Systems Engineering,
 ### Teaching Assistant
 * ISYE 6420: Bayesian Statistics, Spring 2019 -- Spring 2021
 * ISYE 6225: Engineering Economy, Fall 2018
