@@ -15,6 +15,6 @@ author_profile: true
 * "Green Feasibility Check Procedure for Subjective Constraints with Sequentially Added Thresholds." with S. Andradóttir, S.-H. Kim, and C. Park.
 * "Selection of the Best in the Presence of Subjective Stochastic Constraints." with S. Andradóttir and S.-H. Kim.
 * "Finding a Portfolio of Best Systems for Subjective Constraints." with S. Andradóttir and S.-H. Kim.
-* "Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective." with B. Ata and LM. Wein.
+* "Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective." with B. Ata, R. Hester, and LM. Wein.
 * "A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times." with A. Alwan and B. Ata.  
 
