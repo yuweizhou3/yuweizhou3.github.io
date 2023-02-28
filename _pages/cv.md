@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be downloaded here. 
+My [CV](https://yuweizhou3.github.io/files/CV_YuweiZhou.pdf) can be downloaded here. 
