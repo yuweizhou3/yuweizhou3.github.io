@@ -14,8 +14,6 @@ author_profile: true
 ## Working Papers
 * "Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds." with S. Andradóttir, S.-H. Kim, and C. Park.
 * "Selection of the Best in the Presence of Subjective Stochastic Constraints." with S. Andradóttir and S.-H. Kim. **Submitted.**  
-* "Finding a Portfolio of Best Systems for Subjective Constraints." with S. Andradóttir and S.-H. Kim.
 * "Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective." with B. Ata, R. Hester, and LM. Wein. **Submitted.**
 * ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times."](https://arxiv.org/abs/2302.02265) with A. Alwan and B. Ata. **Submitted.**
-* "An Analysis of Pretrial Detention and its Unintended Consequences." with B. Ata and C. Hannigan.
 
