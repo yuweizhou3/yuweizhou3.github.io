@@ -12,6 +12,7 @@ author_profile: true
 * ["Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds."](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Proceedings of the 2020 Winter Simulation Conference*, 2812-2820. 
 
 ## Working Papers
+* "Analysis And Improvement For Eviction Enforcement" with B. Ata.
 * "Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds." with S. Andradóttir, S.-H. Kim, and C. Park.
 * "Selection of the Best in the Presence of Subjective Stochastic Constraints." with S. Andradóttir and S.-H. Kim. **Submitted.**  
 * "Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective." with B. Ata, R. Hester, and LM. Wein. **Submitted.**
