@@ -12,7 +12,7 @@ Hi, I am a postdoctoral principle researcher at [the University of Chicago Booth
 
 My research interests are centered on developing solutions to operational challenges in public sector applications. I am also interested in simulation modeling and analysis, data-based decision-making, and simulation optimization. 
 
-I received my undergraduate degree in both Industrial and System Engineering and Discrete Mathematics from Georgia Institute of Technology. 
+I received my undergraduate degrees in both Industrial and System Engineering and Discrete Mathematics from Georgia Institute of Technology. 
 
 
 
