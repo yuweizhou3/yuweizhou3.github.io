@@ -15,6 +15,6 @@ author_profile: true
 * "Analysis And Improvement For Eviction Enforcement." with B. Ata.
 * "Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds." with S. Andradóttir, S.-H. Kim, and C. Park.
 * "Selection of the Best in the Presence of Subjective Stochastic Constraints." with S. Andradóttir and S.-H. Kim. **Submitted.**  
-* "Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective." with B. Ata, R. Hester, and LM. Wein. **Submitted.**
+* ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective."](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein. **Submitted.**
 * ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times."](https://arxiv.org/abs/2302.02265) with A. Alwan and B. Ata. **Submitted.**
 
