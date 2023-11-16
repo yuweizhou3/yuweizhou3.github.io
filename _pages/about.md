@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral principle researcher at [the University of Chicago Booth School of Business](https://www.chicagobooth.edu), working with [Dr. Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. degree in Operations Research from [Georgia Institute of Technology, H. Milton Stewart School of Industrial & Systems Engineering](https://www.isye.gatech.edu), under the supervision of [Dr. Sigrun Andradottir](https://www.isye.gatech.edu/users/sigrun-andradottir) and [Dr. Seong-Hee Kim](https://www.isye.gatech.edu/users/seong-hee-kim). 
+Hi, I am a postdoctoral principle researcher at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu), working with [Dr. Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. degree in Operations Research from [Georgia Institute of Technology, H. Milton Stewart School of Industrial & Systems Engineering](https://www.isye.gatech.edu), under the supervision of [Dr. Sigrun Andradottir](https://www.isye.gatech.edu/users/sigrun-andradottir) and [Dr. Seong-Hee Kim](https://www.isye.gatech.edu/users/seong-hee-kim). 
 
 My research interests are centered on developing solutions to operational challenges in public sector applications. I am also interested in simulation modeling and analysis, data-based decision-making, and simulation optimization. 
 
