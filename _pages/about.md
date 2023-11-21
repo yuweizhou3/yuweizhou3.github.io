@@ -14,6 +14,8 @@ My research interests are centered on developing solutions to operational challe
 
 I received my undergraduate degrees in both Industrial and System Engineering and Discrete Mathematics from Georgia Institute of Technology. 
 
+**I am on the 2023-2024 academic job market.**
+
 
 
 
