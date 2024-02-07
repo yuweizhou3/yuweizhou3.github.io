@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-1. ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times."](https://arxiv.org/abs/2302.02265) with A. Alwan and B. Ata. *Queueing Systems*. Accepted.
+1. ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times."](https://arxiv.org/abs/2302.02265) with A. Alwan and B. Ata. *Queueing Systems*, 106(1): 1--66, 2024.
 2. ["Finding Feasible Systems for Subjective Constraints Using Recycled Observations."](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1227) with S. Andradóttir, S.-H. Kim, and C. Park. *INFORMS Journal on Computing*, 34(6): 3080-3095, 2022.
 
 ## Conference Proceedings
