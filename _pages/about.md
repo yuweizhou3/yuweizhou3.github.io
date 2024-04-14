@@ -16,8 +16,6 @@ I received my undergraduate degrees in both Industrial and System Engineering an
 
 My [CV](https://yuweizhou3.github.io/files/CV_YuweiZhou.pdf) can be downloaded here. 
 
-**I am on the 2023-2024 academic job market.**
-
 
 
 
