@@ -14,8 +14,9 @@ author_profile: true
 
 ## Working Papers
 1. "Analysis and Improvement for Eviction Enforcement," with B. Ata.
-2. ["Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds,"](https://yuweizhou3.github.io/files/MultiPassPruningDraft.pdf) with S. Andradóttir, S.-H. Kim, and C. Park. **Submitted.**
-3. "Selection of the Best in the Presence of Subjective Stochastic Constraints," with S. Andradóttir and S.-H. Kim. **Submitted.**  
-4. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein. **Submitted.**
+2. ["Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds,"](https://yuweizhou3.github.io/files/MultiPassPruningDraft.pdf) with S. Andradóttir, S.-H. Kim, and C. Park. 
+3. "Selection of the Best in the Presence of Subjective Stochastic Constraints," with S. Andradóttir and S.-H. Kim. 
+4. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
+5. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
 
 
