@@ -18,5 +18,6 @@ author_profile: true
 3. "Selection of the Best in the Presence of Subjective Stochastic Constraints," with S. Andradóttir and S.-H. Kim. 
 4. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
 5. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
+6. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim. 
 
 
