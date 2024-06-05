@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Publications
 1. ["Selection of the Best in the Presence of Subjective Stochastic Constraints,"](https://dl.acm.org/doi/10.1145/3664814) with S. Andradóttir and S.-H. Kim. *ACM Transactions on Modeling and Computer Simulation (TOMACS)*, forthcoming.
 2. ["Pruning Inferior Systems Using Subjective Constraints with Sequentially Added Thresholds,"](https://www.tandfonline.com/doi/full/10.1080/07474946.2024.2348464) with S. Andradóttir, S.-H. Kim, and C. Park. *Sequential Analysis*, forthcoming.
-3. ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times,"](https://link.springer.com/article/10.1007/s11134-023-09901-y) with A. Alwan and B. Ata. *Queueing Systems*, 106(1): 1--66, 2024.
+3. ["A Queueing Model of Dynamic Pricing and Dispatch Control for Ride-Hailing Systems Incorporating Travel Times,"](https://link.springer.com/article/10.1007/s11134-023-09901-y) with A. Alwan and B. Ata. *Queueing Systems*, 106: 1--66, 2024.
 4. ["Finding Feasible Systems for Subjective Constraints Using Recycled Observations,"](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1227) with S. Andradóttir, S.-H. Kim, and C. Park. *INFORMS Journal on Computing*, 34(6): 3080--3095, 2022.
 
 ## Conference Proceedings
