@@ -15,7 +15,7 @@ author_profile: true
 1. ["Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds,"](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Proceedings of the 2020 Winter Simulation Conference (WSC)*, 2812-2820. 
 
 ## Working Papers
-1. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
+1. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
 2. "Analysis and Improvement for Eviction Enforcement," with B. Ata.
 3. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
 4. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
