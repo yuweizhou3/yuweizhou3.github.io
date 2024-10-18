@@ -12,7 +12,9 @@ author_profile: true
 4. ["Finding Feasible Systems for Subjective Constraints Using Recycled Observations,"](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1227) with S. Andradóttir, S.-H. Kim, and C. Park. *INFORMS Journal on Computing*, 34(6): 3080--3095, 2022.
 
 ## Conference Proceedings
-1. ["Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds,"](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Proceedings of the 2020 Winter Simulation Conference (WSC)*, 2812-2820. 
+1. ["Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds,"](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Proceedings of the 2020 Winter Simulation Conference (WSC)*, 2812-2820.
+2. "Finding Feasible Systems in the Presence of a Probability Constraint," with T. Kim, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*.
+3. "Finding Feasible Systems for a Stochastic Constraint with Relaxed Tolerance Levels," with C. Park, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*.
 
 ## Working Papers
 1. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
