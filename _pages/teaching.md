@@ -5,8 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Indiana University, Kelley School of Business
+### Instructor
+* P429: Operations Processes, Spring 2025 
+
 ## Georgia Institute of Technology, H. Milton Stewart School of Industrial and Systems Engineering
-## Teaching Assistant
+### Teaching Assistant
 * ISYE 6420: Bayesian Statistics, Spring 2019 -- Spring 2021
 * ISYE 6225: Engineering Economy, Fall 2018
 * ISYE 4232: Advanced Stochastic System, Spring 2018
