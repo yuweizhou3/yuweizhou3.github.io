@@ -7,13 +7,13 @@ author_profile: true
 
 ## Indiana University, Kelley School of Business
 ### Instructor
-* BUS-P429: Operations Processes, Spring 2025 
+* BUS-P429: Operations Processes (Undergraduate), Spring 2025 
 
 ## Georgia Institute of Technology, H. Milton Stewart School of Industrial and Systems Engineering
 ### Teaching Assistant
-* ISYE 6420: Bayesian Statistics, Spring 2019 -- Spring 2021
-* ISYE 6225: Engineering Economy, Fall 2018
-* ISYE 4232: Advanced Stochastic System, Spring 2018
-* ISYE 6334: Operations Research for Supply Chains, Fall 2017
-* ISYE 3044: Simulation Analysis and Design, Summer 2017
+* ISYE 6420: Bayesian Statistics (Graduate), Spring 2019 -- Spring 2021
+* ISYE 6225: Engineering Economy (Graduate), Fall 2018
+* ISYE 4232: Advanced Stochastic System（Undergraduate), Spring 2018
+* ISYE 6334: Operations Research for Supply Chains (Graduate), Fall 2017
+* ISYE 3044: Simulation Analysis and Design (Undergraduate), Summer 2017
 
