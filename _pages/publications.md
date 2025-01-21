@@ -13,8 +13,8 @@ author_profile: true
 
 ## Conference Proceedings
 1. ["Identifying the Best System in the Presense of Stochastic Constraints with Varying Thresholds,"](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Proceedings of the 2020 Winter Simulation Conference (WSC)*, 2812-2820.
-2. "Finding Feasible Systems in the Presence of a Probability Constraint," with T. Kim, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*.
-3. "Finding Feasible Systems for a Stochastic Constraint with Relaxed Tolerance Levels," with C. Park, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*.
+2. ["Finding Feasible Systems in the Presence of a Probability Constraint,"](https://ieeexplore.ieee.org/document/10838753) with T. Kim, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*, 3415-3422.
+3. ["Finding Feasible Systems for a Stochastic Constraint with Relaxed Tolerance Levels,"](https://ieeexplore.ieee.org/document/10838993) with C. Park, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*, 467-476.
 
 ## Working Papers
 1. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
