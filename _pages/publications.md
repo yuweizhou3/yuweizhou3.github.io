@@ -17,10 +17,11 @@ author_profile: true
 3. ["Finding Feasible Systems for a Stochastic Constraint with Relaxed Tolerance Levels,"](https://ieeexplore.ieee.org/document/10838993) with C. Park, S. Andradóttir, and S.-H. Kim. *Proceedings of the 2024 Winter Simulation Conference (WSC)*, 467-476.
 
 ## Working Papers
-1. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
-2. "Analysis and Improvement for Eviction Enforcement," with B. Ata.
-3. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
-4. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
-5. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
+1. ["Analysis and Improvement for Eviction Enforcement,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149529) with B. Ata.
+2. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
+3. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
+4. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
+5. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
+
 
 
