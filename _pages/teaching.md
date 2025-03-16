@@ -7,7 +7,7 @@ author_profile: true
 
 ## Indiana University, Kelley School of Business
 ### Instructor
-* BUS-P429: Operations Processes (Undergraduate), Spring 2025 
+* BUS-P429: Operations Processes (Undergraduate), Spring 2025, Fall 2025
 
 ## Georgia Institute of Technology, H. Milton Stewart School of Industrial and Systems Engineering
 ### Teaching Assistant
