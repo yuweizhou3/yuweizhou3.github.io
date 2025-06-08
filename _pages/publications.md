@@ -21,8 +21,9 @@ author_profile: true
 2. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
 3. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
 4. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
-5. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
-6. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
+5. "Finding a Portfolio of Best Systems for Subjective Constraints," with S. Andradóttir and S.-H. Kim.
+6. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
+7. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
 
 
 
