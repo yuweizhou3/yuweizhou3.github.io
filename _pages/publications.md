@@ -23,7 +23,8 @@ author_profile: true
 4. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
 5. "Finding a Portfolio of Best Systems for Subjective Constraints," with S. Andradóttir and S.-H. Kim.
 6. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
-7. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
+7. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
+8. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
 
 
 
