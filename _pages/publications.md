@@ -18,11 +18,11 @@ author_profile: true
 
 ## Working Papers
 1. ["Analysis and Improvement for Eviction Enforcement,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149529) with B. Ata.
-2. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
-3. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
-4. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
-5. "Finding a Portfolio of Best Systems for Subjective Constraints," with S. Andradóttir and S.-H. Kim.
-6. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
+2. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
+3. "Indifference-Zone Relaxation Procedure for Ranking and Selection," with S. Andradóttir, S.-H. Kim, and C. Park.
+4. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
+5. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
+6. "Finding a Portfolio of Best Systems for Subjective Constraints," with S. Andradóttir and S.-H. Kim.
 7. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
 8. "An Analysis of Pretrial Detention and its Unintended Consequences," with B. Ata and C. Hannigan.
 
