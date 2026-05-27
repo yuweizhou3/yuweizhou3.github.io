@@ -20,10 +20,9 @@ author_profile: true
 1. ["Analysis and Improvement for Eviction Enforcement,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149529) with B. Ata.
 2. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
 3. ["Indifference-Zone Relaxation Procedures for Finding Feasible Systems,"](https://arxiv.org/abs/2509.04514) with S. Andradóttir, S.-H. Kim, and C. Park.
-4. ["Analyzing the Effects of Judicial Rotation on Criminal Sentencing: An Operations Management Perspective,"](https://yuweizhou3.github.io/files/JudgeShoppingDraft.pdf) with B. Ata, R. Hester, and LM. Wein.
-5. "Feasibility Determination for Subjective Probability Constraints," with T. Kim, S. Andradóttir, and S.-H. Kim.
-6. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
-7. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
+4. ["Feasibility Determination for Subjective Probability Constraints,"](https://arxiv.org/abs/2605.27237) with T. Kim, S. Andradóttir, and S.-H. Kim.
+5. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
+6. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
 
 
 
