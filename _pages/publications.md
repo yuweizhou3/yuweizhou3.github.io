@@ -23,6 +23,7 @@ author_profile: true
 4. ["Feasibility Determination for Subjective Probability Constraints,"](https://arxiv.org/abs/2605.27237) with T. Kim, S. Andradóttir, and S.-H. Kim.
 5. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
 6. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
+7. "Freshness, Channel Choice, and Food Waste in Omnichannel Retail," with J. Di and F. Gao. 
 
 
 
