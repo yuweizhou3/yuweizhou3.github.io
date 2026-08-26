@@ -18,7 +18,7 @@ author_profile: true
 
 ## Working Papers
 1. ["Analysis and Improvement for Eviction Enforcement,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149529) with B. Ata.
-2. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem and R. Parker.
+2. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem, R. Parker, and W. Zhang.
 3. ["Indifference-Zone Relaxation Procedures for Finding Feasible Systems,"](https://arxiv.org/abs/2509.04514) with S. Andradóttir, S.-H. Kim, and C. Park.
 4. ["Feasibility Determination for Subjective Probability Constraints,"](https://arxiv.org/abs/2605.27237) with T. Kim, S. Andradóttir, and S.-H. Kim.
 5. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
