@@ -21,9 +21,9 @@ author_profile: true
 1. ["Analysis and Improvement for Eviction Enforcement,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149529) with B. Ata.
 2. ["Indifference-Zone Relaxation Procedures for Finding Feasible Systems,"](https://arxiv.org/abs/2509.04514) with S. Andradóttir, S.-H. Kim, and C. Park.
 3. ["Feasibility Determination for Subjective Probability Constraints,"](https://arxiv.org/abs/2605.27237) with T. Kim, S. Andradóttir, and S.-H. Kim.
-4. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem, R. Parker, and W. Zhang.
+4. "Food Waste in Omnichannel Grocery Retail: The Role of Buy Online and Pick Up In Store," with J. Di and F. Gao.
 5. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
-6. "Food Waste in Omnichannel Grocery Retail: The Role of Buy Online and Pick Up In Store," with J. Di and F. Gao.
+6. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem, R. Parker, and W. Zhang.
 7. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
 8. "Improving Inspection Resource Allocation to Control Organizational Misconduct," with F. Petersen and R. Shah. 
 
