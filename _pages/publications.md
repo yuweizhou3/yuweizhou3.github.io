@@ -13,7 +13,7 @@ author_profile: true
 
 ## Conference Proceedings
 1. ["Clean Slates and Lasting Scars: Assessing Reintegration and Policy Design under Colorado's Clean Slate Act,"](https://aisel.aisnet.org/icis2026/society/society/2/) with M. Zhang and Y. Lee. *International Conference on Information Systems (ICIS)*, 2026.
-2. ["CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series,"](https://arxiv.org/abs/2605.16919) with J. Lu, J. Di, and R. Wu. *Neural Information Processing Systems (NeurIPS)*, 2026, to appear.
+2. ["CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series,"](https://arxiv.org/abs/2605.16919) with J. Lu, J. Di, and R. Wu. *Neural Information Processing Systems (NeurIPS)*, 2026.
 3. ["Finding Feasible Systems for a Stochastic Constraint with Relaxed Tolerance Levels,"](https://ieeexplore.ieee.org/document/10838993) with C. Park, S. Andradóttir, and S.-H. Kim. *Winter Simulation Conference (WSC)*, 2024, 467-476.
 4. ["Finding Feasible Systems in the Presence of a Probability Constraint,"](https://ieeexplore.ieee.org/document/10838753) with T. Kim, S. Andradóttir, and S.-H. Kim. *Winter Simulation Conference (WSC)*, 2024, 3415-3422.
 5. ["Identifying the Best System in the Presence of Stochastic Constraints with Varying Thresholds,"](https://ieeexplore.ieee.org/abstract/document/9384097) with S. Andradóttir and S.-H. Kim. *Winter Simulation Conference (WSC)*, 2020, 2812-2820.
