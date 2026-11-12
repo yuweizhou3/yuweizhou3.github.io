@@ -24,9 +24,10 @@ author_profile: true
 3. ["Feasibility Determination for Subjective Probability Constraints,"](https://arxiv.org/abs/2605.27237) with T. Kim, S. Andradóttir, and S.-H. Kim.
 4. ["Food Waste in Omnichannel Grocery Retail: The Role of Buy Online and Pick Up In Store,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682293) with J. Di and F. Gao.
 5. "A Spatial Queueing Framework for Resource Allocation with Strategic Customer Behavior," with B. Ata, J. Friedewald, Y. Hu, and C. Randa.
-6. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem, R. Parker, and W. Zhang.
-7. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
-8. "Improving Inspection Resource Allocation to Control Organizational Misconduct," with F. Petersen and R. Shah. 
+6. "Optimal Geofencing for Spatially Distributed Demand in Food Pickup Operations," with J. Di and W. Zhang. 
+7. "Balancing Cost and Food Waste: Socially Responsible Inventory Management in Omnichannel Supermarkets," with S. Naeem, R. Parker, and W. Zhang.
+8. "Characterizing Feasibility-Optimality Tradeoffs via Ranking and Selection with Subjective Constraints," with S. Andradóttir and S.-H. Kim.
+9. "Improving Inspection Resource Allocation to Control Organizational Misconduct," with F. Petersen and R. Shah. 
 
 
 
